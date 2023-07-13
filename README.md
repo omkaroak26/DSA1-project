@@ -13,18 +13,11 @@ gcc -Wall main.c linked_list.c stack.c operations.c -o main
 ```
 INPUT: STRING OF NUMBERS AND '+ - * /' IN BETWEEN  <br>
 OUPUT: ANSWER <br>
-EXAMPLE: <br>
+EXAMPLE: <br><br>
 198237918479+83634875862-123312*242  <br>
+OUTPUT 281842952837  
 
-```bash
-./main 198237918479+83634875862-123312*242
-```
-
-## OUTPUT
-```bash
-281842952837
-```
-
+------------
 
 ## DATA STRUCTURES USED:
 - LINKED LIST (to store each number with each digit as a node in the LL)
