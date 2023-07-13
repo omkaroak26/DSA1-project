@@ -14,8 +14,8 @@ gcc -Wall main.c linked_list.c stack.c operations.c -o main
 INPUT: STRING OF NUMBERS AND '+ - * /' IN BETWEEN  <br>
 OUPUT: ANSWER <br>
 EXAMPLE: <br><br>
-198237918479+83634875862-123312*242  <br>
-OUTPUT 281842952837  
+_INPUT:_  198237918479+83634875862-123312*242  <br>
+_OUTPUT:_ 281842952837  
 
 ------------
 
